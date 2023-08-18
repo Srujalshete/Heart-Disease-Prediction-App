@@ -4,5 +4,4 @@ pip install seaborn
 pip install scikit-learn
 pip install django
 pip install djangorestframework
-file:///Users/sahil/Desktop/home.png
 
