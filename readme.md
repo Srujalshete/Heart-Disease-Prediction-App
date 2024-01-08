@@ -1,3 +1,6 @@
+HeartNebula Pro 
+
+![image](https://github.com/Srujalshete/Heart-Disease-Prediction-App/assets/67551839/f4dcff27-61e8-4f80-8508-306ea3e814a4)
 
 <img width="1440" alt="home" src="https://github.com/Srujalshete/Heart-Disease-Prediction-App/assets/67551839/e015433c-f137-4e07-8677-699be7c6eff0">
 
